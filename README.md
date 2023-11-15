@@ -1,12 +1,12 @@
 Hi 👋 My name is Doğan Berk
 ===========================
 
-Compiter Engineer
+Computer Engineer
 -----------------
 
 I am studying computer engineering. I share my projects on my Github account and try to contribute to the open source community.
 
-* 🌍  I'm based in Malatya
+* 🌍  I'm based in Turkey
 * ✉️  You can contact me at [doganberk019@gmail.com](mailto:doganberk019@gmail.com)
 * 🧠  I'm learning Digital Image Processing and Unity
 
