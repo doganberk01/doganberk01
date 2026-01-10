@@ -38,11 +38,11 @@ I am a passionate computer engineering student from Turkey with a strong interes
 ---------------------
 
 <p align="left" style="display:flex; flex-wrap:wrap; gap:8px;">
-<a href="https://github.com/doganberk01/Countries-Information-Portal" target="_blank">
-<img src="https://img.shields.io/badge/Countries%20Information%20Portal-6366f1?style=for-the-badge&logo=github&logoColor=white&labelColor=4b32c3" alt="Countries Information Portal"/>
+<a href="https://github.com/doganberk01/TekLator" target="_blank">
+<img src="https://img.shields.io/badge/TekLator-Offline%20Translator-6366f1?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=4b32c3" alt="TekLator"/>
 </a>
-<a href="https://github.com/doganberk01/karhanubeytpws" target="_blank">
-<img src="https://img.shields.io/badge/Ubeyt%20Karhan%20Personal%20Website-10b981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d8c5c" alt="Ubeyt Karhan Personal Website"/>
+<a href="https://github.com/doganberk01/TekLoader" target="_blank">
+<img src="https://img.shields.io/badge/TekLoader-Video%20Downloader-ef4444?style=for-the-badge&logo=youtube&logoColor=white&labelColor=dc2626" alt="TekLoader"/>
 </a>
 </p>
 
